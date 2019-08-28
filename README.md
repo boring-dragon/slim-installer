@@ -1,6 +1,3 @@
-# slim-installer
-Command line slim installation tool to install slim php framework easily
-
 # Packages used
 Symfony Console
 Guzzle
