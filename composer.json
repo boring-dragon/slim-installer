@@ -1,6 +1,8 @@
 {
     "name": "jinas/sliminstaller",
     "description": "Slim installer for php slim framework",
+    "keywords": ["slim"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Mohamed Jinas",
