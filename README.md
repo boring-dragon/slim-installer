@@ -3,7 +3,7 @@ Symfony Console
 Guzzle
 
 # To install
- ` composer global require jinas/sliminstaller `
+composer global require jinas/sliminstaller
  
  # Basic Usage
- ` slim new {appname} `
+ slim new "{appname}"
