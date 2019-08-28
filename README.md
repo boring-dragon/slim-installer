@@ -1,8 +1,8 @@
 # slim-installer
 Command line slim installation tool to install slim php framework easily
 
-#To install
- `composer global require jinas/sliminstaller`
+# To install
+ ` composer global require jinas/sliminstaller `
  
- #Basic Usage
- `slim new {appname}`
+ # Basic Usage
+ ` slim new {appname} `
