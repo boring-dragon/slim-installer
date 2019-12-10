@@ -1,3 +1,5 @@
+This is console app is inspired by laravel installer.
+
 # Packages used
 ```
 Symfony Console
